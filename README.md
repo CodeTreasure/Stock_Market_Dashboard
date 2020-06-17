@@ -7,3 +7,8 @@ Features:
 * Exchange data from Google Drive API and MongoDB
 * Calculate statistics for stocks
 * All parts are interactive
+
+Components:
+* plotly
+* dash
+* heroku
